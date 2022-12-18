@@ -1,0 +1,14 @@
+.my-title {
+  font-size: 30px;
+  color: rgb(252, 42, 42);
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+}
