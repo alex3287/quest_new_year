@@ -11,6 +11,8 @@ h1 {
 
 .description {
   font-size: 30px;
+  display: block;
+  color: aliceblue;
 }
 
 .cards {
@@ -29,6 +31,7 @@ footer {
   background: rgb(248, 230, 230);
   height: 80px;
   text-align: center;
+  color: rgb(78, 187, 197);
 }
 
 .person {
@@ -39,4 +42,12 @@ footer {
 section {
   padding-top: 50px;
   padding-bottom: 20px;
+}
+
+.change-class {
+  display: flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-wrap: wrap;
+  height: 200px;
 }
