@@ -22,3 +22,21 @@ h1 {
 .card {
   margin-bottom: 30px;
 }
+
+footer {
+  margin-top: 40px;
+  padding: 30px;
+  background: rgb(248, 230, 230);
+  height: 80px;
+  text-align: center;
+}
+
+.person {
+  width: 200px;
+  float: left;
+}
+
+section {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
