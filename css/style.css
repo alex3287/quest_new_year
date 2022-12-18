@@ -9,6 +9,16 @@ h1 {
   text-align: center;
 }
 
-p {
+.description {
   font-size: 30px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  margin-bottom: 30px;
 }
