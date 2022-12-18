@@ -51,3 +51,29 @@ section {
   flex-wrap: wrap;
   height: 200px;
 }
+
+.img-center {
+  display: block;
+  margin: auto;
+}
+
+.diolog {
+  display: block;
+  font-size: 22px;
+  width: 400px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.speech {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+blockquote {
+  border: 2px solid rgb(99, 138, 165);
+  height: 100px;
+  font-size: 28px;
+  margin-left: 30px;
+}
